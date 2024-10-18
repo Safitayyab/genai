@@ -1,1 +1,1 @@
-HELLO GDC
+hi genai
