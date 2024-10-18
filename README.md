@@ -1,1 +1,1 @@
-# genai hello
+HELLO GDC
